@@ -1,1 +1,3 @@
-This folder contains my final report for MATH179HM - Spring 2024.
+Implementation of Unitary Recurrent Neural Networks for various toy tasks and language modelling.
+===
+This repository contains our implementation of unitary RNNs for various toy tasks and language modelling on the Penn Treebank dataset, as outlined in Arjovsky et al. paper [Unitary Evolution Recurrent Neural Networks](https://arxiv.org/abs/1511.06464). Refer to the READMEs of the respective tasks for more information on how to run each task.
